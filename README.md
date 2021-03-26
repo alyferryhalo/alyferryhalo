@@ -5,3 +5,5 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning, Django&Flask**
 - 📫 How to reach me: look for **alyferryhalo**
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alyferryhalo)](https://github.com/gazf/github-readme-twitter)
