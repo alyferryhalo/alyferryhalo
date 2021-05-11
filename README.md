@@ -10,7 +10,7 @@ I have some repos, so there is a little instruction about them:
 
 | Educational | Projects | 
 |-------------|----------|
-| [2021_rosalind(https://github.com/alyferryhalo/2021_rosalind) | [bioinfMiniParserSelenium](https://github.com/alyferryhalo/bioinfMiniParserSelenium) | 
+| [2021_rosalind](https://github.com/alyferryhalo/2021_rosalind) | [bioinfMiniParserSelenium](https://github.com/alyferryhalo/bioinfMiniParserSelenium) | 
 | [2021_SheCodes](https://github.com/alyferryhalo/2021_SheCodes) | [BlackNote](https://github.com/alyferryhalo/BlackNote) | 
 | [2021_pythonAlgo](https://github.com/alyferryhalo/2021_pythonAlgo) | [djangoProjectCalendar](https://github.com/alyferryhalo/djangoProjectCalendar) | 
 | [2021_crushCourses](https://github.com/alyferryhalo/2021_crushCourses) | [2021_telegabot_ImageStyle](https://github.com/alyferryhalo/2021_telegabot_ImageStyle) | 
