@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Python, Machine Learning, Django&Flask, Java**
 - 📫 How to reach me: look for **alyferryhalo** 
 - 👀 Look! My [**gists**](https://gist.github.com/alyferryhalo)
+- 💻 **NLP intern** at ipavlov 
 
 [![alyferryhalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyferryhalo&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
